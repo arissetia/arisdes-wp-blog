@@ -7,4 +7,10 @@ you can see the original sage WordPress here :  https://github.com/roots/sage
 
 ##Changelog & update
 -----
-1/jan/2016 - first commit
+1/jan/2016: - first commit
+10/jan/2016 :
+ - change bootstrap framework css to material design (getmdl.io)
+ - disable feature add_theme_support('soil-nav-walker'); in lib/setup.php
+ - add new file mdl_custom.php in folder lib, theres function to remove id and class from wp_nav_menu()
+ - clean all style in assets/styles you can make a completely a new app without having worry about css style
+ - in header.php , add wp_nav_menu()
