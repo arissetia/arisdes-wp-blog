@@ -7,7 +7,9 @@ you can see the original sage WordPress here :  https://github.com/roots/sage
 
 ##Changelog & update
 -----
-1/jan/2016: - first commit
+1/jan/2016: 
+- first commit
+
 10/jan/2016 :
  - change bootstrap framework css to material design (getmdl.io)
  - disable feature add_theme_support('soil-nav-walker'); in lib/setup.php
