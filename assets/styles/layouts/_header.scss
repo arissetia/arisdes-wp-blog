@@ -1,0 +1,14 @@
+@media screen and (max-width:$grid-tablet-breakpoint - 1) {
+	.header-custom {
+		* {
+			margin: auto;
+		}
+	}
+}
+
+.blog-title{
+	a{
+		color: rgb(92, 92, 92);
+		text-decoration: none;
+	}
+}

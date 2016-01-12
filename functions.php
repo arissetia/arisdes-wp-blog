@@ -10,7 +10,6 @@
  * @link https://github.com/roots/sage/pull/1042
  */
 
-require_once('lib/mdl_custom.php');
 
 $sage_includes = [
   'lib/assets.php',    // Scripts and stylesheets
@@ -18,7 +17,8 @@ $sage_includes = [
   'lib/setup.php',     // Theme setup
   'lib/titles.php',    // Page titles
   'lib/wrapper.php',   // Theme wrapper class
-  'lib/customizer.php' // Theme customizer
+  'lib/customizer.php', // Theme customizer
+  'lib/mdl_custom.php'  // custom script for this theme
 ];
 
 foreach ($sage_includes as $file) {
