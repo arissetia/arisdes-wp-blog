@@ -10,8 +10,8 @@ you can see the original sage WordPress here :  https://github.com/roots/sage
 
 12/jan/2016 :
 - add class **special_theme** in  lib/mdl_custom.php for easy  custom 
-- add function featured_index for featured image ** in class special_theme**
-- add function get_img_src for get source image from featured image with ID post ** in class special_theme**
+- add function featured_index for featured image **in class special_theme**
+- add function get_img_src for get source image from featured image with ID post **in class special_theme**
 - change index.php structur format
 	
   
